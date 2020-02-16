@@ -1,8 +1,8 @@
-# Team Bandcamp
-CS 1666 - Group game design project 
+# Europa
+University of Pittsburgh CS 1666 - Game Design and Implementation
 
 ## HOW TO PLAY
-Click executable "bandcamp" in the "Executable" folder. Executable needs "res" and "music" on the same level as well as the provided .ddls (as it is in the file currently).
+Click executable "Europa" in the "Executable" folder. Executable needs "res" and "music" on the same level as well as the provided .ddls (as it is in the file currently).
 
 ## Controls:
 Move: WASD / Arrow Keys
